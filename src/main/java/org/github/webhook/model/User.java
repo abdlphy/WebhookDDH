@@ -9,4 +9,5 @@ import jakarta.persistence.Table;
 public class User extends PanacheEntity {
     public String name;
     public String email;
+    public String number;
 }
