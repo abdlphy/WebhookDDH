@@ -10,5 +10,6 @@ public class User extends PanacheEntity {
     public String name;
     public String email;
     public Number number;
+    public String designation;
     
 }
