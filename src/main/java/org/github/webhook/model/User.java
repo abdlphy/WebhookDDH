@@ -12,5 +12,6 @@ public class User extends PanacheEntity {
     public Number number;
     public String designation;
     public Double latitude;
+    public Double longitude;
     
 }
