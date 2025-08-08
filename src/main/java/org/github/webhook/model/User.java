@@ -8,8 +8,7 @@ import jakarta.persistence.Table;
 @Table(name = "user", schema = "main")
 public class User extends PanacheEntity {
     public String name;
-    public String email;
-    public String designation;
+
    
     
 
